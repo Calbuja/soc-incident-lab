@@ -1,0 +1,30 @@
+[
+  {
+    "ip": "192.168.64.1",
+    "abuseipdb": {
+      "abuse_score": 0,
+      "country": null,
+      "isp": null,
+      "total_reports": 1
+    },
+    "otx": {
+      "pulse_count": 0,
+      "country": "Unknown"
+    },
+    "verdict": "CLEAN - Low risk"
+  },
+  {
+    "ip": "8.8.8.8",
+    "abuseipdb": {
+      "abuse_score": 0,
+      "country": "US",
+      "isp": "Google LLC",
+      "total_reports": 121
+    },
+    "otx": {
+      "pulse_count": 0,
+      "country": "United States of America"
+    },
+    "verdict": "CLEAN - Low risk"
+  }
+]
